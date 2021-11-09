@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Prompt';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../fonts/Prompt-Regular.eot'); /* IE9 */
+  src: url('../fonts/Prompt-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/Prompt-Regular.woff2') format('woff2'), /* Modern Browsers */
+    url('../fonts/Prompt-Regular.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/Prompt-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/Prompt-Regular.svg#Prompt') format('svg'); /* Legacy iOS */
+}

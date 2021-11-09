@@ -1,0 +1,64 @@
+#fila1{
+font-family: georgia;
+font-size: 20px;
+}
+#fila2{
+	font-style: oblique;    
+	font-family: Times New Roman;
+	font-size: 1cm;
+}
+#fila3{
+font-family: arial;
+text-shadow: 10%;
+font-size: 20pt;
+
+    
+}
+#fila4{
+	font-family: tahoma;
+	text-decoration: underline;
+    font-size: 2em;
+}
+#fila5{
+	font-family: open-sans;
+	text-overflow: ellipsis;
+	font-size: 2rem;
+    
+}
+#fila6{
+    text-align: center;
+    font-family: Dancing Script;
+    font-size: 200%;
+
+
+}
+#fila7{
+	font-family: Montserrat;
+    line-height: initial;
+    font-size: 3vh;
+}
+#fila8{
+    font-family:'Amiko';
+-webkit-text-fill-color: unset;
+font-size: 2vw;
+}
+#fila9{
+	    font-family:'Nova Script';
+        -webkit-text-stroke-width: 50%;
+        font-size: 2vmin;
+}
+#fila10{
+    font-family:'Prompt';
+-webkit-text-stroke-color: blue;
+font-size: 2vmax;
+}
+#fila11{
+font-size: 2vmax;    
+}
+#fila12{
+    font-size: 2vw;
+}
+#fila13{
+        font-size: 200%;
+}
+

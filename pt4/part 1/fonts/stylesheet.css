@@ -1,0 +1,64 @@
+@font-face {
+    font-family: 'Dancing Script';
+    src: url('DancingScript-Regular.eot');
+    src: url('DancingScript-Regular.eot?#iefix') format('embedded-opentype'),
+        url('DancingScript-Regular.woff2') format('woff2'),
+        url('DancingScript-Regular.woff') format('woff'),
+        url('DancingScript-Regular.ttf') format('truetype'),
+        url('DancingScript-Regular.svg#DancingScript-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('Montserrat-Black.eot');
+    src: url('Montserrat-Black.eot?#iefix') format('embedded-opentype'),
+        url('Montserrat-Black.woff2') format('woff2'),
+        url('Montserrat-Black.woff') format('woff'),
+        url('Montserrat-Black.ttf') format('truetype'),
+        url('Montserrat-Black.svg#Montserrat-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+  font-family: 'Amiko';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../fonts/Amiko-Regular.eot'); /* IE9 */
+  src: url('../fonts/Amiko-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/Amiko-Regular.woff2') format('woff2'), /* Modern Browsers */
+    url('../fonts/Amiko-Regular.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/Amiko-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/Amiko-Regular.svg#Amiko') format('svg'); /* Legacy iOS */
+}
+@font-face {
+  font-family: 'Nova Script';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../fonts/Nova-Script-Regular.eot'); /* IE9 */
+  src: url('../fonts/Nova-Script-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/Nova-Script-Regular.woff2') format('woff2'), /* Modern Browsers */
+    url('../fonts/Nova-Script-Regular.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/Nova-Script-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/Nova-Script-Regular.svg#NovaScript') format('svg'); /* Legacy iOS */
+}
+@font-face {
+  font-family: 'Prompt';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../fonts/Prompt-Regular.eot'); /* IE9 */
+  src: url('../fonts/Prompt-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/Prompt-Regular.woff2') format('woff2'), /* Modern Browsers */
+    url('../fonts/Prompt-Regular.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/Prompt-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/Prompt-Regular.svg#Prompt') format('svg'); /* Legacy iOS */
+}
+
+

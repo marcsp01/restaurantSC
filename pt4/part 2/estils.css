@@ -1,0 +1,55 @@
+body{
+	background: darkgrey;
+}
+
+header{
+	background: red;
+ text-align: center;
+ font-family: arial;
+ width: 100%;
+
+}
+h1{
+	padding-top: 25px;
+}
+nav{
+
+}
+nav ul {
+    list-style: none;
+background-color: grey;
+font-family: monospace;
+font-size: 130%;
+
+}
+.article{
+	 margin: 4%;
+    background: lightsalmon;
+text-align: center;
+    border-radius: 25px;
+    width: 25%;
+    height: 50vh;
+    font-size: 150%;
+    font-family: arial;
+    float: left;
+    
+}
+.article .img1{
+	margin-top: 30%;
+	width: 80%;
+	height: 35%;
+}
+.article .img1:hover{
+opacity: 0.5;
+}
+footer{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+	font-family: arial;
+    margin-top: 50%;
+    height: 10%;
+    background: red;
+}
+
+
